@@ -2,7 +2,7 @@
 
 Do the impossible with the team you have.
 
-This is the home of the **Fully Powered Workflow Templates**: 343 AI workflow templates for business teams, in 40 repositories by function and industry, free to read, copy and adapt under the MIT licence.
+This is the home of the **Fully Powered Workflow Templates**: 348 AI workflow templates for business teams, in 40 repositories by function and industry, free to read, copy and adapt under the MIT licence.
 
 ## What a workflow template is
 
@@ -20,11 +20,11 @@ In every template a person starts the work, supplies the inputs and decides. The
 - **[Design and User Experience](https://github.com/Fully-Powered-AI/design-workflow-templates)** (6): for designers and the product people who work with them.
 - **[Executive and Office Support](https://github.com/Fully-Powered-AI/office-support-workflow-templates)** (12): for executive assistants, office managers and anyone who runs a meeting.
 - **[Finance](https://github.com/Fully-Powered-AI/finance-workflow-templates)** (17): for finance and accounting teams.
-- **[Health, Safety and Environment](https://github.com/Fully-Powered-AI/safety-workflow-templates)** (6): for site, operations and safety managers.
+- **[Health, Safety and Environment](https://github.com/Fully-Powered-AI/safety-workflow-templates)** (7): for site, operations and safety managers.
 - **[Leadership](https://github.com/Fully-Powered-AI/leadership-workflow-templates)** (6): for owners, chief executives and leadership teams.
 - **[Legal](https://github.com/Fully-Powered-AI/legal-workflow-templates)** (12): for in-house counsel, contracts teams and the operations people who prepare work for outside counsel.
 - **[Marketing](https://github.com/Fully-Powered-AI/marketing-workflow-templates)** (28): for marketing teams and the owners who do their own marketing.
-- **[Operations](https://github.com/Fully-Powered-AI/operations-workflow-templates)** (11): for operations leaders and the people who own a process.
+- **[Operations](https://github.com/Fully-Powered-AI/operations-workflow-templates)** (10): for operations leaders and the people who own a process.
 - **[People and HR](https://github.com/Fully-Powered-AI/people-workflow-templates)** (11): for people teams and the managers they support.
 - **[Procurement and Suppliers](https://github.com/Fully-Powered-AI/procurement-workflow-templates)** (10): for owners, office managers, buyers and operations leads.
 - **[Product Management](https://github.com/Fully-Powered-AI/product-management-workflow-templates)** (6): for product managers and the founders who do the job themselves.
@@ -46,7 +46,7 @@ In every template a person starts the work, supplies the inputs and decides. The
 - **[Hardware and Physical Technology](https://github.com/Fully-Powered-AI/hardware-workflow-templates)** (6): for operations, product and programme leads at a hardware company.
 - **[Healthcare](https://github.com/Fully-Powered-AI/healthcare-workflow-templates)** (10): for practice administrators and coordinators.
 - **[Hospitality](https://github.com/Fully-Powered-AI/hospitality-workflow-templates)** (6): for hotel, restaurant and venue managers.
-- **[Law Firms](https://github.com/Fully-Powered-AI/law-firm-workflow-templates)** (19): for the people who run the business side of a law firm.
+- **[Law Firms](https://github.com/Fully-Powered-AI/law-firm-workflow-templates)** (24): for the people who run a law firm's operations and prepare work for its attorneys.
 - **[Logistics and Trade](https://github.com/Fully-Powered-AI/logistics-workflow-templates)** (6): for warehouse, dock and transport leads.
 - **[Manufacturing](https://github.com/Fully-Powered-AI/manufacturing-workflow-templates)** (6): for production, planning and operations leads at a manufacturer.
 - **[Marketing and Advertising Agencies](https://github.com/Fully-Powered-AI/agency-workflow-templates)** (6): for account, strategy and delivery leads at an agency.
