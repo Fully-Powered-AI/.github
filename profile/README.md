@@ -17,23 +17,23 @@ In every template a person starts the work, supplies the inputs and decides. The
 - **[Business Systems and Integrations](https://github.com/Fully-Powered-AI/business-systems-workflow-templates)** (7): for operations and systems owners.
 - **[Compliance, Risk and Privacy](https://github.com/Fully-Powered-AI/compliance-workflow-templates)** (7): for compliance leads, risk owners, company secretaries and the people who prepare evidence for them.
 - **[Customer Success](https://github.com/Fully-Powered-AI/customer-success-workflow-templates)** (13): for customer success and account management teams.
-- **[Customer Support](https://github.com/Fully-Powered-AI/customer-support-workflow-templates)** (14): for support and service teams.
+- **[Customer Support](https://github.com/Fully-Powered-AI/customer-support-workflow-templates)** (14): for support and service teams. On the site: [AI workflow examples for customer support and service teams](https://fullypowered.ai/functions/customer-support-and-service/).
 - **[Design and User Experience](https://github.com/Fully-Powered-AI/design-workflow-templates)** (7): for designers and the product people who work with them.
 - **[Executive and Office Support](https://github.com/Fully-Powered-AI/office-support-workflow-templates)** (12): for executive assistants, office managers and anyone who runs a meeting.
-- **[Finance](https://github.com/Fully-Powered-AI/finance-workflow-templates)** (20): for finance and accounting teams.
+- **[Finance](https://github.com/Fully-Powered-AI/finance-workflow-templates)** (20): for finance and accounting teams. On the site: [AI workflow examples for finance and accounting teams](https://fullypowered.ai/functions/finance-and-accounting/).
 - **[Health, Safety and Environment](https://github.com/Fully-Powered-AI/safety-workflow-templates)** (8): for site, operations and safety managers.
 - **[Leadership](https://github.com/Fully-Powered-AI/leadership-workflow-templates)** (6): for owners, chief executives and leadership teams.
 - **[Legal](https://github.com/Fully-Powered-AI/legal-workflow-templates)** (14): for in-house counsel, contracts teams and the operations people who prepare work for outside counsel. On the site: [AI workflow examples for legal and contracts teams](https://fullypowered.ai/functions/legal-and-contracts/).
-- **[Marketing](https://github.com/Fully-Powered-AI/marketing-workflow-templates)** (31): for marketing teams and the owners who do their own marketing.
-- **[Operations](https://github.com/Fully-Powered-AI/operations-workflow-templates)** (11): for operations leaders and the people who own a process.
-- **[People and HR](https://github.com/Fully-Powered-AI/people-workflow-templates)** (12): for people teams and the managers they support.
+- **[Marketing](https://github.com/Fully-Powered-AI/marketing-workflow-templates)** (31): for marketing teams and the owners who do their own marketing. On the site: [AI workflow examples for marketing teams](https://fullypowered.ai/functions/marketing-and-content/).
+- **[Operations](https://github.com/Fully-Powered-AI/operations-workflow-templates)** (11): for operations leaders and the people who own a process. On the site: [AI workflow examples for operations teams](https://fullypowered.ai/functions/operations-and-process-improvement/).
+- **[People and HR](https://github.com/Fully-Powered-AI/people-workflow-templates)** (12): for people teams and the managers they support. On the site: [AI workflow examples for HR and people teams](https://fullypowered.ai/functions/people-and-hr/).
 - **[Procurement and Suppliers](https://github.com/Fully-Powered-AI/procurement-workflow-templates)** (10): for owners, office managers, buyers and operations leads.
 - **[Product Management](https://github.com/Fully-Powered-AI/product-management-workflow-templates)** (6): for product managers and the founders who do the job themselves.
 - **[Project and Delivery](https://github.com/Fully-Powered-AI/project-delivery-workflow-templates)** (10): for project managers, delivery leads and the people who sponsor a project.
 - **[Quality Management](https://github.com/Fully-Powered-AI/quality-workflow-templates)** (6): for quality leads and the people who own a process.
 - **[Recruiting and Hiring](https://github.com/Fully-Powered-AI/recruiting-workflow-templates)** (9): for hiring managers, recruiters and people teams.
-- **[Sales](https://github.com/Fully-Powered-AI/sales-workflow-templates)** (14): for sales teams.
-- **[Supply Chain and Inventory](https://github.com/Fully-Powered-AI/supply-chain-workflow-templates)** (6): for supply chain, inventory and fulfilment leads.
+- **[Sales](https://github.com/Fully-Powered-AI/sales-workflow-templates)** (14): for sales teams. On the site: [AI workflow examples for sales teams](https://fullypowered.ai/functions/sales/).
+- **[Supply Chain and Inventory](https://github.com/Fully-Powered-AI/supply-chain-workflow-templates)** (6): for supply chain, inventory and fulfilment leads. On the site: [AI workflow examples for supply chain and inventory teams](https://fullypowered.ai/functions/supply-chain-and-inventory/).
 
 ## By industry
 
@@ -42,20 +42,20 @@ In every template a person starts the work, supplies the inputs and decides. The
 - **[E-commerce and Retail](https://github.com/Fully-Powered-AI/ecommerce-workflow-templates)** (10): for the people who run an online store.
 - **[Education](https://github.com/Fully-Powered-AI/education-workflow-templates)** (6): for the administrative staff of schools, colleges and training providers.
 - **[Energy](https://github.com/Fully-Powered-AI/energy-workflow-templates)** (6): for operations, asset and finance staff at an energy business.
-- **[Engineering Firms](https://github.com/Fully-Powered-AI/engineering-firm-workflow-templates)** (6): for project managers and coordinators at engineering firms.
+- **[Engineering Firms](https://github.com/Fully-Powered-AI/engineering-firm-workflow-templates)** (6): for project managers and coordinators at engineering firms. On the site: [AI workflow examples for engineering firms](https://fullypowered.ai/industries/engineering-firms/).
 - **[Financial Services](https://github.com/Fully-Powered-AI/financial-services-workflow-templates)** (6): for operations and client-service staff at an advisory or investment firm.
 - **[Hardware and Physical Technology](https://github.com/Fully-Powered-AI/hardware-workflow-templates)** (6): for operations, product and programme leads at a hardware company.
 - **[Healthcare](https://github.com/Fully-Powered-AI/healthcare-workflow-templates)** (10): for practice administrators and coordinators.
 - **[Hospitality](https://github.com/Fully-Powered-AI/hospitality-workflow-templates)** (6): for hotel, restaurant and venue managers.
 - **[Law Firms](https://github.com/Fully-Powered-AI/law-firm-workflow-templates)** (24): for the people who run a law firm's operations and prepare work for its attorneys. On the site: [AI workflow examples for law firms](https://fullypowered.ai/industries/law-firms/).
-- **[Logistics and Trade](https://github.com/Fully-Powered-AI/logistics-workflow-templates)** (6): for warehouse, dock and transport leads.
+- **[Logistics and Trade](https://github.com/Fully-Powered-AI/logistics-workflow-templates)** (6): for warehouse, dock and transport leads. On the site: [AI workflow examples for logistics and trade businesses](https://fullypowered.ai/industries/logistics-and-trade/).
 - **[Manufacturing](https://github.com/Fully-Powered-AI/manufacturing-workflow-templates)** (8): for production, planning and operations leads at a manufacturer.
 - **[Marketing and Advertising Agencies](https://github.com/Fully-Powered-AI/agency-workflow-templates)** (6): for account, strategy and delivery leads at an agency.
-- **[Media and Entertainment](https://github.com/Fully-Powered-AI/media-workflow-templates)** (6): for editors, producers and production coordinators.
+- **[Media and Entertainment](https://github.com/Fully-Powered-AI/media-workflow-templates)** (6): for editors, producers and production coordinators. On the site: [AI workflow examples for media and entertainment companies](https://fullypowered.ai/industries/media-and-entertainment/).
 - **[Nonprofits](https://github.com/Fully-Powered-AI/nonprofit-workflow-templates)** (6): for the staff of nonprofit organizations.
-- **[Professional Services](https://github.com/Fully-Powered-AI/professional-services-workflow-templates)** (7): for the people who run engagements at a professional services firm.
+- **[Professional Services](https://github.com/Fully-Powered-AI/professional-services-workflow-templates)** (7): for the people who run engagements at a professional services firm. On the site: [AI workflow examples for professional services firms](https://fullypowered.ai/industries/professional-services/).
 - **[Real Estate](https://github.com/Fully-Powered-AI/real-estate-workflow-templates)** (6): for property managers, brokers and their operations staff.
-- **[Software Companies](https://github.com/Fully-Powered-AI/software-company-workflow-templates)** (6): for the support, success, sales, product and finance people at a software company.
+- **[Software Companies](https://github.com/Fully-Powered-AI/software-company-workflow-templates)** (6): for the support, success, sales, product and finance people at a software company. On the site: [AI workflow examples for software companies](https://fullypowered.ai/industries/software-technology/).
 
 ## How to use one
 
