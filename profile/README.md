@@ -23,7 +23,7 @@ In every template a person starts the work, supplies the inputs and decides. The
 - **[Finance](https://github.com/Fully-Powered-AI/finance-workflow-templates)** (20): for finance and accounting teams.
 - **[Health, Safety and Environment](https://github.com/Fully-Powered-AI/safety-workflow-templates)** (8): for site, operations and safety managers.
 - **[Leadership](https://github.com/Fully-Powered-AI/leadership-workflow-templates)** (6): for owners, chief executives and leadership teams.
-- **[Legal](https://github.com/Fully-Powered-AI/legal-workflow-templates)** (14): for in-house counsel, contracts teams and the operations people who prepare work for outside counsel.
+- **[Legal](https://github.com/Fully-Powered-AI/legal-workflow-templates)** (14): for in-house counsel, contracts teams and the operations people who prepare work for outside counsel. On the site: [AI workflow examples for legal and contracts teams](https://fullypowered.ai/functions/legal-and-contracts/).
 - **[Marketing](https://github.com/Fully-Powered-AI/marketing-workflow-templates)** (31): for marketing teams and the owners who do their own marketing.
 - **[Operations](https://github.com/Fully-Powered-AI/operations-workflow-templates)** (11): for operations leaders and the people who own a process.
 - **[People and HR](https://github.com/Fully-Powered-AI/people-workflow-templates)** (12): for people teams and the managers they support.
@@ -47,7 +47,7 @@ In every template a person starts the work, supplies the inputs and decides. The
 - **[Hardware and Physical Technology](https://github.com/Fully-Powered-AI/hardware-workflow-templates)** (6): for operations, product and programme leads at a hardware company.
 - **[Healthcare](https://github.com/Fully-Powered-AI/healthcare-workflow-templates)** (10): for practice administrators and coordinators.
 - **[Hospitality](https://github.com/Fully-Powered-AI/hospitality-workflow-templates)** (6): for hotel, restaurant and venue managers.
-- **[Law Firms](https://github.com/Fully-Powered-AI/law-firm-workflow-templates)** (24): for the people who run a law firm's operations and prepare work for its attorneys.
+- **[Law Firms](https://github.com/Fully-Powered-AI/law-firm-workflow-templates)** (24): for the people who run a law firm's operations and prepare work for its attorneys. On the site: [AI workflow examples for law firms](https://fullypowered.ai/industries/law-firms/).
 - **[Logistics and Trade](https://github.com/Fully-Powered-AI/logistics-workflow-templates)** (6): for warehouse, dock and transport leads.
 - **[Manufacturing](https://github.com/Fully-Powered-AI/manufacturing-workflow-templates)** (8): for production, planning and operations leads at a manufacturer.
 - **[Marketing and Advertising Agencies](https://github.com/Fully-Powered-AI/agency-workflow-templates)** (6): for account, strategy and delivery leads at an agency.
