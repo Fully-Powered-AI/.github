@@ -1,8 +1,8 @@
-# Fully Powered AI
+# FullyPowered AI
 
 Do the impossible with the team you have.
 
-This is the home of the **Fully Powered Workflow Templates**: 383 AI workflow templates for business teams, in 41 repositories by function and industry, free to read, copy and adapt under the MIT licence.
+This is the home of the **FullyPowered Workflow Templates**: 383 AI workflow templates for business teams, in 41 repositories by function and industry, free to read, copy and adapt under the MIT licence.
 
 ## What a workflow template is
 
@@ -71,6 +71,6 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## Find the one you need
 
-The [Fully Powered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template with search, by function, industry and business situation.
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template with search, by function, industry and business situation.
 
-Fully Powered AI builds and adapts workflow templates for your team: [fullypowered.ai](https://fullypowered.ai/).
+These templates are examples and a starting point, not a complete list of what a team can do. FullyPowered AI can build any workflow for your company, including one that runs several steps, in a [Workflow Sprint or a scoped implementation](https://fullypowered.ai/pricing/): [fullypowered.ai](https://fullypowered.ai/).
