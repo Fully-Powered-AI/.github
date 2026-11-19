@@ -2,6 +2,10 @@
 
 Do the impossible with the team you have.
 
+**These are templates, made to be customized and deployed.** Each one is a working starting point: copy it, change it to fit how your company does the work, and run it in the AI you already pay for.
+
+**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini.** [See how we work](https://fullypowered.ai/?from=gh-profile) · [Browse all the workflow templates](https://fullypowered.ai/workflows/?from=gh-profile) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-profile)
+
 This is the home of the **FullyPowered Workflow Templates**: 383 AI workflow templates for business teams, in 41 repositories by function and industry, free to read, copy and adapt under the MIT licence.
 
 ## What a workflow template is
